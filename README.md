@@ -1,0 +1,1 @@
+# gitops-appsso-starter-java
